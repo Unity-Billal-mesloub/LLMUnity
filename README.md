@@ -14,14 +14,14 @@
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=flat&logo=Reddit&logoColor=white)](https://www.reddit.com/user/UndreamAI)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/company/undreamai)
 [![Asset Store](https://img.shields.io/badge/Asset%20Store-black.svg?style=flat&logo=unity)](https://assetstore.unity.com/packages/slug/273604)
-[![GitHub Repo stars](https://img.shields.io/github/stars/undreamai/LLMUnity?style=flat&logo=github&color=f5f5f5)](https://github.com/undreamai/LLMUnity)
+[![GitHub Repo stars](https://img.shields.io/github/stars/undreamai/LLMUnity?style=flat&logo=github&color=f5f5f5)](https://github.com/Unity-Billal-mesloub/LLMUnity)
 [![Documentation](https://img.shields.io/badge/Docs-white.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwEAYAAAAHkiXEAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEgAACxIB0t1+/AAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAATqSURBVHic7ZtbiE1RGMc349K4M5EwklwjzUhJCMmTJPJAYjQXJJcH8+Blkry4lPJA8aAoJbekDLmUS6E8SHJL5AW5JPf77eHv93C22Wfttc/ee+0zc/4vv+bMXvusvfZa3/q+b33H80oqqaSSSmqrKnPdgXjUvbvYq5f4+7f486eb/rRajRsn7t4tPngg/vol/vkj/vghXr0q7tghzpyZ//79+on79omXLombNondukXrd9GoSxdx8mSxqUm8eVNkgAvl0aPioEFip07i6dP52z15Ig4fbvVY2VVFhbhokXjrlogJiWvAg/jwoXjqVO73+leUny9eiFVV5mfMlLDRBw+KX76ISQ+0LZ8/F00v4uJFsWPHFh83O+rdWzx3TnQ9wCZ+/Sqyl5iux1RmTu3aiYcPi64H1pasALypoOv4/8SJXraEbXc9kLbECxo2TKyuFj9/zt9u+XIvG8LWv3wpuh5QW86f3/JznT+fv93s2S23C1Z72wbhtH692LdvMvdPSgzkhAkiJhT16ZO/PRPOmcr+Rda4aa5nclTeuZP7PDgRpr1g40bPrQYOFF0PYKHEC+raVVy8OFy7R49EArvURU4mrUAqaTY0iB8/2rXD+XCm5mbR9QAWylevorV7/VpkL0ld06eLpkiyWPj9u93179+LpFZwZ1PXtGnitWui64GMStPmG7SH1NSIJBNHjvTSFZvRvHlise0N9JcBtW1/44Y4dqx45IjnU0JxAGLpklPx+9VZFwPp/9v/eZDGjxcZh7dv4+mXtch+up7Rca+MsJvxiRNi6nvBhg25HWprZMaPGeOlqxEjxGKz+XGRTAAmyJnq6sR370TXA2NLW+8HNjZ62dLOnaLrAQ1r2zmqPH482n0mTfJCKmEvCJHUooNZE/369Elct06kqiKsONRfulTEFDsX8QDlIa5nup9374pE8IiZHPY+ly+LZE/37/cM6mC6IB6Vl4urV6fzfUG6d0/csyf37wsXRFInaM4ckTjGdPg+apTYs6dI3RIWwH//1DV1qkiuxNY2FzrTd+2y6y8z2HQU6efZs+KBAyJZ4v+V0h6ArlwROaQP0uPH4ooV4sqV8Xz/4MF211M2wwoOq1mzRAq5Pnywa5+4KDHE9mI7ly0TO3fOvZ6/eZCoKwB32HS0SMFV1DNtImBKHYstBROoQ4fEQk2RaS+qrxejmj5M7NatIhWARS82xUJfAKahzFcdPnq0GLYgy7Rnbd8e6rGKRyzpuNzPBQty709RcNSZf/KkuHCh2GpMDyKbGNcLYE+YMkVks336NFx7XhTZ3szXiBaqtWvFuAOxM2dEZiyH8UErgc8JLNun7E0aFffSI7RP6owZmz9kSO73HjsmXr8ukppYsybSYyQvBp5QfOjQ3M9tRR496pGgLf1JtLlzRZJzlFzGp4SWDnUxFCrdvy+uWiWa3DJe3N69oj8uSEq8CER88uaNOGBAOv2ILGY69TBBJoM8O0t72zaRoztXBzlLlrT8XARW/IQq82JTMv3mKmv0/9CC4mJMYPwrMSETxAyurRUxQVmXP1fEid7mzeK3b+n2Jzb16CFu2SIWmtNJiriVxANsyq0uoCJfTk4G9y4t24/bSQ0rTkP6gVTG3mz//uKMGSK/ucId5Xe9lZUi5eMMLGUgz56J5Hxu3xZ50Xg3RMIltVn9BRja26PYsBHgAAAAAElFTkSuQmCC)](https://undream.ai/LLMUnity)
 
 LLM for Unity enables seamless integration of Large Language Models (LLMs) within the Unity engine.<br>
 It allows to create intelligent AI characters that players can interact with for an immersive experience.<br>
 The package includes a Retrieval-Augmented Generation (RAG) system for semantic search across your data, which can be used to enhance the character's knowledge.<br>
 
-The LLM backend, [LlamaLib](https://github.com/undreamai/LlamaLib), is built on top of the awesome [llama.cpp](https://github.com/ggerganov/llama.cpp) library and  provided as a standalone C++/C# library.
+The LLM backend, [LlamaLib](https://github.com/Unity-Billal-mesloub/LlamaLib), is built on top of the awesome [llama.cpp](https://github.com/Unity-Billal-mesloub/llama.cpp) library and  provided as a standalone C++/C# library.
 
 <sub>
 <a href="#at-a-glance" style="color: black">At a glance</a>&nbsp;&nbsp;•&nbsp;
@@ -54,10 +54,10 @@ The LLM backend, [LlamaLib](https://github.com/undreamai/LlamaLib), is built on 
 For business inquiries you can reach out at hello@undream.ai.
 
 ## How to help
-- [⭐ Star](https://github.com/undreamai/LLMUnity) the repo, leave a [review](https://assetstore.unity.com/packages/slug/273604) and spread the word about the project!
+- [⭐ Star](https://github.com/Unity-Billal-mesloub/LLMUnity) the repo, leave a [review](https://assetstore.unity.com/packages/slug/) and spread the word about the project!
 - Join us at [Discord](https://discord.gg/RwXKQb6zdv) and say hi.
 - [Contribute](CONTRIBUTING.md) by submitting feature requests, bugs or even your own PR.
-- [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/amakropoulos) this work or buy me a [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/amakropoulos) to allow even cooler features!
+- [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)] this work or buy me a [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/amakropoulos) to allow even cooler features!
 
 
 ## Games / Projects using LLM for Unity
@@ -68,12 +68,12 @@ For business inquiries you can reach out at hello@undream.ai.
 - [Finicky Food Delivery AI](https://helixngc7293.itch.io/finicky-food-delivery-ai)
 - [AI Emotional Girlfriend](https://whynames.itch.io/aiemotionalgirlfriend)
 - [Case Closed](https://store.steampowered.com/app/2532160/Case_Closed)
-- [MaiMai AI Agent System](https://github.com/IhateCreatingUserNames2/MaiMai)
+- [MaiMai AI Agent System](https://github.com/Unity-Billal-mesloub/MaiMai)
 - [Claria Chat](https://play.google.com/store/apps/details?id=com.ProLink.ClariaChat)
 - [Endless Casual Drive](https://store.steampowered.com/app/2928500/Endless_Casual_Drive/)
 - [Dating App Simulator](https://store.steampowered.com/app/3415680/Dating_App_Simulator/)
 - [Virtual Reality Mock Interview](https://vrmi.vercel.app/)
-- [Velesio AI server](https://github.com/Velesio/Velesio-AIServer)
+- [Velesio AI server](https://github.com/Unity-Billal-mesloub/Velesio-AIServer)
 - [Dungeon Chat](https://www.meta.com/experiences/dungeonchat/8527310950709276/)
 - [Tomonaka Desk](https://joycatdev.itch.io/tomonaka-desk)
 - [Digital Humans](https://store.steampowered.com/app/3089280/Digital_Humans/)
@@ -87,7 +87,7 @@ Contact hello@undream.ai to add your project!
 
 ## Setup
 _Method 1: Install using the asset store_
-- Open the [LLM for Unity](https://assetstore.unity.com/packages/slug/273604) asset page and click `Add to My Assets`
+- Open the [LLM for Unity](https://assetstore.unity.com/packages/slug/) asset page and click `Add to My Assets`
 - Open the Package Manager in Unity: `Window > Package Manager`
 - Select the `Packages: My Assets` option from the drop-down
 - Select the `LLM for Unity` package, click `Download` and then `Import`
@@ -95,7 +95,7 @@ _Method 1: Install using the asset store_
 _Method 2: Install using the GitHub repo:_
 - Open the Package Manager in Unity: `Window > Package Manager`
 - Click the `+` button and select `Add package from git URL`
-- Use the repository URL `https://github.com/undreamai/LLMUnity.git` and click `Add`
+- Use the repository URL `https://github.com/Unity-Billal-mesloub/LLMUnity.git` and click `Add`
 
 ## Quick start
 <img height="300" src=".github/character.png"/>
@@ -203,9 +203,9 @@ The [MobileDemo](Samples~/MobileDemo) demonstrates an example application for An
 <details>
 <summary>Restrict the output of the LLM / Function calling / Grammar</summary>
 
-To restrict the output of the LLM you can use a grammar, read more [here](https://github.com/ggerganov/llama.cpp/tree/master/grammars).<br>
+To restrict the output of the LLM you can use a grammar, read more [here](https://github.com/Unity-Billal-mesloub/llama.cpp/tree/master/grammars).<br>
 The grammar can edited directly in the `Grammar` field of the LLMAgent or saved in a gbnf / json schema file and loaded with the `Load Grammar` button (Advanced options).<br>
-For instance to receive replies in json format you can use the [json.gbnf](https://github.com/ggerganov/llama.cpp/blob/b4218/grammars/json.gbnf) grammar.<br>
+For instance to receive replies in json format you can use the [json.gbnf](https://github.com/Unity-Billal-mesloub/llama.cpp/blob/b4218/grammars/json.gbnf) grammar.<br>
 
 Alternatively you can set the grammar directly in your script:
 ``` c#
@@ -360,7 +360,7 @@ To create the server:
 
 Alternatively you can use a server binary for easier deployment:
 - Run the above scene from the Editor and copy the command from the Debug messages (starting with "Deploy server command:")
-- Download and extract the [LlamaLib binaries](https://github.com/undreamai/LlamaLib/releases/download/v2.0.0/LlamaLib-v2.0.0.zip)
+- Download and extract the [LlamaLib binaries](https://github.com/Unity-Billal-mesloub/LlamaLib/releases/download/v2.0.0/LlamaLib-v2.0.0.zip)
 - From command line change directory to the `servers` folder selected and start the server by running the command copied from above.
 
 **Create the characters**<br>
@@ -383,7 +383,7 @@ A <b>detailed documentation</b> on function level can be found here:
 
 ## Semantic search with a RAG system
 LLM for Unity implements a super-fast similarity search functionality with a Retrieval-Augmented Generation (RAG) system.<br>
-It is based on the LLM embeddings, and the Approximate Nearest Neighbors (ANN) search from the [usearch](https://github.com/unum-cloud/usearch) library.<br>
+It is based on the LLM embeddings, and the Approximate Nearest Neighbors (ANN) search from the [usearch](https://github.com/Unity-Billal-mesloub) library.<br>
 Semantic search works as follows.
 
 **Building the data** You provide text inputs (a phrase, paragraph, document) to add to the data.<br>
@@ -498,7 +498,7 @@ The [Samples~](Samples~) folder contains several examples of interaction 🤖:
 - [RAG](Samples~/RAG): Semantic search using a Retrieval Augmented Generation (RAG) system. Includes example using a RAG to feed information to a LLM
 - [MobileDemo](Samples~/MobileDemo): Example mobile app for Android / iOS with an initial screen displaying the model download progress
 - [ChatBot](Samples~/ChatBot): Interaction between a player and a AI with a UI similar to a messaging app (see image below)
-- [KnowledgeBaseGame](Samples~/KnowledgeBaseGame): Simple detective game using a knowledge base to provide information to the LLM based on [google/mysteryofthreebots](https://github.com/google/mysteryofthreebots)
+- [KnowledgeBaseGame](Samples~/KnowledgeBaseGame): Simple detective game using a knowledge base to provide information to the LLM based on [google/mysteryofthreebots](https://github.com/Unity-Billal-mesloub/mysteryofthreebots)
   
 <img width="400" src=".github/demo.gif">
 
@@ -511,6 +511,6 @@ In the scene, select the `LLM` GameObject and specify the LLM of your choice (se
 Save the scene, run and enjoy!
 
 ## License
-The license of LLM for Unity is Apache 2.0 ([LICENSE.md](LICENSE.md)) and uses third-party software with MIT and Apache licenses.
+The license of LLM for Unity is Mit  ([LICENSE.md](LICENSE.md)) and uses third-party software with MIT and Apache licenses.
 Some models included in the asset define their own license terms, please review them before using each model.
 Third-party licenses can be found in the ([Third Party Notices.md](<Third Party Notices.md>)).
